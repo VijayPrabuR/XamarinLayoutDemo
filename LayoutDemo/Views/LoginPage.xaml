@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LayoutDemo.LoginPage">
+    <ContentPage.Content>
+        <RelativeLayout Margin="20" Padding="20" BackgroundColor="Goldenrod">
+            <Label x:Name="info" Text="Sign in to your account" 
+                   TextColor="White" 
+                   FontSize="30"
+                   FontAttributes="Bold"
+                    RelativeLayout.XConstraint=
+                    "{ConstraintExpression 
+                        Type=RelativeToParent,
+                        Property=Width, 
+                        Factor=0.1,
+                        Constant=-5
+                        }" 
+                    RelativeLayout.YConstraint=
+                        "{ConstraintExpression 
+                            Type=RelativeToParent,
+                            Property=Height,
+                            Factor=0.1}"/>
+
+            <Entry x:Name="username" 
+                   Placeholder="Enter your Name" 
+                   HorizontalTextAlignment="Center"
+                   WidthRequest="300"
+                   RelativeLayout.XConstraint=
+                    "{ConstraintExpression 
+                        Type=RelativeToParent,
+                        Property=Width, 
+                        Factor=0.1,
+                        Constant=-5
+                        }" 
+            RelativeLayout.YConstraint=
+                        "{ConstraintExpression 
+                            Type=RelativeToParent,
+                            Property=Height,
+                            Factor=0.2}"
+                   />
+
+            <Entry Placeholder="Enter password"
+                   x:Name="password"
+                   MaxLength="15"
+                   IsSpellCheckEnabled="false"
+                   IsTextPredictionEnabled="false"
+                   IsPassword="True"
+                   HorizontalTextAlignment="Center"
+                   WidthRequest="300"
+                   RelativeLayout.XConstraint=
+                    "{ConstraintExpression 
+                        Type=RelativeToParent,
+                        Property=Width, 
+                        Factor=0.1,
+                        Constant=-5
+                        }" 
+            RelativeLayout.YConstraint=
+                        "{ConstraintExpression 
+                            Type=RelativeToParent,
+                            Property=Height,
+                            Factor=0.4}"/>
+
+            <Button x:Name="signin"  
+                    BackgroundColor="Orange"
+                    CornerRadius="5"
+                    Text="LOGIN"
+                    RelativeLayout.XConstraint=
+                    "{ConstraintExpression 
+                        Type=RelativeToParent,
+                        Property=Width, 
+                        Factor=0.38,
+                        Constant=-5
+                        }" 
+            RelativeLayout.YConstraint=
+                        "{ConstraintExpression 
+                            Type=RelativeToParent,
+                            Property=Height,
+                            Factor=0.6}"
+                    Clicked="gotoDialpadPage"/>
+        </RelativeLayout>
+    </ContentPage.Content>
+</ContentPage>

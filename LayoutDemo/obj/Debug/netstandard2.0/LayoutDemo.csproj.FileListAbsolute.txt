@@ -1,0 +1,17 @@
+C:\Users\Vijay Prabhu\source\repos\LayoutDemo\LayoutDemo\LayoutDemo\obj\Debug\netstandard2.0\LayoutDemo.csprojAssemblyReference.cache
+C:\Users\Vijay Prabhu\source\repos\LayoutDemo\LayoutDemo\LayoutDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Vijay Prabhu\source\repos\LayoutDemo\LayoutDemo\LayoutDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Vijay Prabhu\source\repos\LayoutDemo\LayoutDemo\LayoutDemo\obj\Debug\netstandard2.0\Views\DialpadPage.xaml.g.cs
+C:\Users\Vijay Prabhu\source\repos\LayoutDemo\LayoutDemo\LayoutDemo\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Vijay Prabhu\source\repos\LayoutDemo\LayoutDemo\LayoutDemo\obj\Debug\netstandard2.0\Views\StartPage.xaml.g.cs
+C:\Users\Vijay Prabhu\source\repos\LayoutDemo\LayoutDemo\LayoutDemo\obj\Debug\netstandard2.0\LayoutDemo.AssemblyInfoInputs.cache
+C:\Users\Vijay Prabhu\source\repos\LayoutDemo\LayoutDemo\LayoutDemo\obj\Debug\netstandard2.0\LayoutDemo.AssemblyInfo.cs
+C:\Users\Vijay Prabhu\source\repos\LayoutDemo\LayoutDemo\LayoutDemo\obj\Debug\netstandard2.0\LayoutDemo.csproj.CoreCompileInputs.cache
+C:\Users\Vijay Prabhu\source\repos\LayoutDemo\LayoutDemo\LayoutDemo\obj\Debug\netstandard2.0\LayoutDemo.dll
+C:\Users\Vijay Prabhu\source\repos\LayoutDemo\LayoutDemo\LayoutDemo\obj\Debug\netstandard2.0\ref\LayoutDemo.dll
+C:\Users\Vijay Prabhu\source\repos\LayoutDemo\LayoutDemo\LayoutDemo\obj\Debug\netstandard2.0\LayoutDemo.pdb
+C:\Users\Vijay Prabhu\source\repos\LayoutDemo\LayoutDemo\LayoutDemo\bin\Debug\netstandard2.0\LayoutDemo.deps.json
+C:\Users\Vijay Prabhu\source\repos\LayoutDemo\LayoutDemo\LayoutDemo\bin\Debug\netstandard2.0\LayoutDemo.dll
+C:\Users\Vijay Prabhu\source\repos\LayoutDemo\LayoutDemo\LayoutDemo\bin\Debug\netstandard2.0\ref\LayoutDemo.dll
+C:\Users\Vijay Prabhu\source\repos\LayoutDemo\LayoutDemo\LayoutDemo\bin\Debug\netstandard2.0\LayoutDemo.pdb
+C:\Users\Vijay Prabhu\source\repos\LayoutDemo\LayoutDemo\LayoutDemo\obj\Debug\netstandard2.0\XamlC.stamp
